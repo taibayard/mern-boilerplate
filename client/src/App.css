@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+nav{
+  width:100%;
+  background-color:rgb(143, 134, 134);
+  padding : 10px 0;
+}
+nav a{
+  margin: 10px;
+  text-decoration: none;
+  color:#5df;
+}
+nav a:hover{
+  color: hotpink;
+}
+.footer{
+  background-color:rgb(143, 134, 134);
+  color:#5df;
+  position:absolute;
+  bottom:0;
+  width:100%;
+  text-align: right;
+}
+.footer-text{
+  font-size:13px;
+}
+.content{
+  padding: 20px 0;
+}
